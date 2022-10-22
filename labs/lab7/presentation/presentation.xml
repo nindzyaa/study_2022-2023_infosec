@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indexing>
+ <object alt="" name="Изображение1" object_type="graphic"/>
+ <object alt="" name="Изображение2" object_type="graphic"/>
+ <paragraph index="15" node_type="writer">Лабораторная работа №7</paragraph>
+ <paragraph index="16" node_type="writer">Царитова Нина</paragraph>
+ <paragraph index="17" node_type="writer">Цели и задачи</paragraph>
+ <paragraph index="18" node_type="writer">Освоить на практике применение режима однократного гаммирования.</paragraph>
+ <paragraph index="19" node_type="writer">Ход лабораторной работы</paragraph>
+ <paragraph index="20" node_type="writer">Функция шифрования</paragraph>
+ <paragraph index="21" node_type="writer">Задаём текстовую строку и создаём случайный символьный ключ такой же длины</paragraph>
+ <paragraph index="23" node_type="writer">Результат работы программы</paragraph>
+ <paragraph index="24" node_type="writer">Запускаем функцию. В первом случае получаем зашифрованный текст.</paragraph>
+ <paragraph index="25" node_type="writer">Далее, используя тот же самый ключ, осущвляем дешифровку текста.</paragraph>
+ <paragraph index="26" node_type="writer">Так же, зная оригинальный текст и его шифорку, можем получить ключ.</paragraph>
+ <paragraph index="28" node_type="writer">Выводы</paragraph>
+ <paragraph index="29" node_type="writer">Я освоила на практике применение режима однократного гаммирования.</paragraph>
+</indexing>
